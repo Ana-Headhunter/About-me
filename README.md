@@ -5,7 +5,7 @@ Despite my academic background, I am so passionate about technology and that is 
 - 🌱 I love data, so I’m currently learning Data Analysis (Be kind, I'm just a beginner - First time in my life with a programming language: Python and R)
 - 💞️ I’m here looking to help all the techy community to find the job of their dreams.
 - 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/anabaquedano
-- website: www.anabaquedano.wenode.es
-- Twitter: @Ana_CareerCoach
-- email: ana.baquedano.rrhh@gmail.com
+  * LinkedIn: www.linkedin.com/in/anabaquedano
+  * website: www.anabaquedano.wenode.es
+  * Twitter: @Ana_CareerCoach
+  * email: ana.baquedano.rrhh@gmail.com
