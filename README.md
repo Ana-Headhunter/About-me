@@ -8,4 +8,4 @@ Despite my academic background, I am so passionate about technology and that is 
   * LinkedIn: www.linkedin.com/in/anabaquedano
   * website: www.anabaquedanodeburgos.webnode.es
   * Twitter: @Ana_CareerCoach
-  * email: ana.baquedano.rrhh@gmail.com
+  * email: ana@abaquedano.com
