@@ -6,6 +6,6 @@ Despite my academic background, I am so passionate about technology and that is 
 - 💞️ I’m here looking to help all the techy community to find the job of their dreams.
 - 📫 How to reach me:
   * LinkedIn: www.linkedin.com/in/anabaquedano
-  * website: www.anabaquedanodeburgos.wenode.es
+  * website: www.anabaquedanodeburgos.webnode.es
   * Twitter: @Ana_CareerCoach
   * email: ana.baquedano.rrhh@gmail.com
